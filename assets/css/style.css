@@ -1,0 +1,20 @@
+
+
+
+
+
+/* class selector */
+
+.wrap {
+    margin: 100px auto 0 auto;
+    max-width: 600px;
+}
+
+.quiz-intro {
+    text-align: center;
+    
+}
+
+.finish-screen {
+    text-align: center;
+}
