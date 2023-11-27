@@ -1,4 +1,4 @@
-const questions = [
+var questions = [
     {
         question: "What do you use to declare a variable?",
         answers: ["var", "let", "const", "all of the above"],

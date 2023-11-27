@@ -9,31 +9,31 @@
     </head>
     <body>
         <div><a href="highscores.html">Highscores</a></div>
-        <div>Time:</div>
+        <div class="timer">Time: <span id="time">0</span></div>
         <div class="wrap">
-            <div class="quiz-intro">
+            <div class="quiz-intro" id="start-screen">
                 <h1>Javascript Fundamentals Quiz</h1>
                 <p>
                     Think you know Javascript? Try to take this quiz on the fundamentals of Javascript. 
                     See how high you score amongst your peers and try to get #1! 
                 </p>
-                <button>Start Quiz?</button>
+                <button id="start">Start Quiz?</button>
             </div>
             
-            <div>
-                <h2></h2>
-                <div></div>
+            <div id="question" class="hide">
+                <h2 id="question-title"></h2>
+                <div id="choices" class="choices"></div>
             </div>
 
-            <div class="finish-screen">
+            <div id="finish-screen" class="hide">
                 <h2>Finish!</h2>
-                <p>You scored <span></span>pts!</p>
+                <p>You scored <span id="final-score"></span>pts!</p>
                 <p>Enter name: </p>
-                <input />
-                <button>Submit!</button>
+                <input type="text" id="name" max="10" />
+                <button id="submit">Submit!</button>
             </div>
 
-            <div></div>
+            <div id="feedback" class="hide feedback"></div>
         </div>
 
         <script src="./assets/js/questions.js"></script>
