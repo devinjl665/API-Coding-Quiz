@@ -6,7 +6,7 @@ This challenge is to build a timed coding quiz with multiple-choice questions. T
 
 ## Demo
 
-![Javascript Fundamentals Quiz - Google Chrome 2024-02-28 02-29-32](https://github.com/devinjl665/API-Coding-Quiz/assets/142193870/a7a4051f-e18b-435d-ba91-295b44c95a9d)
+![Javascript Fundamentals Quiz - Google Chrome 2024-02-28 02-29-32 (1)](https://github.com/devinjl665/API-Coding-Quiz/assets/142193870/3098e398-5e87-4fe4-ab33-66f727c4d3b6)
 
 
 ## Site Link
