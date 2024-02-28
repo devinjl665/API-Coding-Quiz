@@ -22,7 +22,7 @@ This challenge is to build a timed coding quiz with multiple-choice questions. T
 
 ## User Story
 
-AS A coding boot camp student I want to take a timed quiz on JavaScript fundamentals that stores high scores so that I can gauge my progress compared to my peers.
+AS a coding boot camp student I want to take a timed quiz on JavaScript fundamentals that stores high scores so that I can gauge my progress compared to my peers.
 
 
 ## Acceptance Criteria

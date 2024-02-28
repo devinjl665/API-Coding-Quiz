@@ -49,7 +49,6 @@ ol.addEventListener('click', function (event) {
 });
 
 
-
 //
 function message(string) {
   console.log(string);
