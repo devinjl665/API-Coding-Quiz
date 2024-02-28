@@ -6,23 +6,24 @@ This challenge is to build a timed coding quiz with multiple-choice questions. T
 
 ## Demo
 
+![Javascript Fundamentals Quiz - Google Chrome 2024-02-28 02-29-32](https://github.com/devinjl665/API-Coding-Quiz/assets/142193870/a7a4051f-e18b-435d-ba91-295b44c95a9d)
 
 
 ## Site Link
 
-
+<a href="https://devinjl665.github.io/API-Coding-Quiz/">Deployed Site</a>
 
 ## Usage
 
-
+Click the "Start Quiz?" button and try to answer the questions correctly,as fast as you can. After getting your final score, enter your name and hit the "Submit" button. Be directed to the "Leaderboard" page to see where you stack up against other people who have taken the test! 
 
 ## Credits
 
-
+I used Anton Yosifov's github repository, "code-quiz", for reference. <a href="https://github.com/apyosi/code-quiz">Anton's GitHub Repo</a>
 
 ## User Story
 
-AS a coding boot camp student I want to take a timed quiz on JavaScript fundamentals that stores high scores so that I can gauge my progress compared to my peers.
+As a coding boot camp student I want to take a timed quiz on JavaScript fundamentals that stores high scores so that I can gauge my progress compared to my peers.
 
 
 ## Acceptance Criteria
